@@ -5,7 +5,7 @@ jobs:
     docker:
       - image: circleci/python:3.9
 
-    working_directory: ~/calc_repo
+#      working_directory: ~/calc_repo
 
     steps:
       # Step 1: obtain repo from GitHub
