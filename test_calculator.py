@@ -3,7 +3,7 @@
 import calculator
 
 
-class testCalculator:
+class TestCalculator:
 
     def test_add(self):
         assert 4 == calculator.add(1, 3)
